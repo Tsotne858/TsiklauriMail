@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TsiklauriMail</string>
+    <string name="title_activity_receive">Receive</string>
+    <string name="title_activity_message">Message</string>
+</resources>
